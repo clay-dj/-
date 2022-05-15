@@ -8,16 +8,6 @@
 '''
 
 
-# def insert_sort(alist):
-#     n = len(alist)
-#     for j in range(0, n - 1):
-#         i = j
-#         while i >= 0:
-#             if alist[i] > alist[i + 1]:
-#                 alist[i], alist[i + 1] = alist[i + 1], alist[i]
-#                 i -= 1
-#             else:
-#                 break
 
 
 def insert_sort(alist):
